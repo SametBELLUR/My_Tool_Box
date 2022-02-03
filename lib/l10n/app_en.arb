@@ -1,0 +1,25 @@
+{
+    "language": "English",
+    "tool_box": "Tool Box",
+    "tools": "Tools",
+    "hes_code": "HES Code",
+    "calculator": "Calculator",
+    "gallery": "Gallery",
+    "file_name": "File Name",
+    "image_path": "Image Path",
+    "ur_hes_code": "Your HES Code is",
+    "hes_code_add_edit": "HES Code ADD/EDIT",
+
+    "about": "About App",
+    "desc": "This application was developed by Samet BELLUR as a Mobile Programming Lesson Project in December 2021.\n\nV.1.0",
+    "more": "More",
+    "changeLang": "Change the Language",
+
+    "back": "Back",
+    "add_view": "Add Photo to View",
+    "enter_txt": "Please enter some text",
+    "add_hes": "Add a HES Code",
+    "submit": "Submit"
+
+
+}

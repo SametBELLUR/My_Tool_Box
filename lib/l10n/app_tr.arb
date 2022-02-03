@@ -1,0 +1,23 @@
+{
+    "language": "Türkçe",
+    "tool_box": "Alet Çantası",
+    "tools": "Araçlar",
+    "hes_code": "HES Kodu",
+    "calculator": "Hesap Makinesi",
+    "gallery": "Galeri",
+    "file_name": "Dosya Adı",
+    "image_path": "Dosya Konumu",
+    "ur_hes_code": "HES Kodunuz",
+    "hes_code_add_edit": "HES Kod EKLE/DÜZENLE",
+    
+    "about": "Uygulama Hakkında",
+    "desc": "Bu uygulama Samet BELLUR tarafından Mobil Programlama Dersi Projesi olarak Aralık 2021 de geliştirilmiştir.\n\nV.1.0",
+    "more": "Daha Fazla",
+    "changeLang": "Dili Değiştir",
+
+    "back": "Geri",
+    "add_view": "Fotoğraf Ekle",
+    "enter_txt": "Lütfen Metin Girin",
+    "add_hes": "HES Kodu Ekle",
+    "submit": "Gönder"
+}
