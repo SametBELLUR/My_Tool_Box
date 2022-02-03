@@ -1,4 +1,4 @@
-# Roll Dice APP
+# Flutter Tool APP
 A basic dice rolling Android App.
 <div>
 <img src="https://raw.githubusercontent.com/SametBELLUR/My_Tool_Box/main/img_README.md/0.png" width="40%">
